@@ -1,0 +1,3 @@
+
+def restKind() -> None:
+    pass
